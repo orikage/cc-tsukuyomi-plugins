@@ -1,6 +1,7 @@
 # tsukuyomi-chan-plugin
 
 つくよみちゃんキャラクターモードで開発をサポートする Claude Code プラグイン。
+元ネタ：https://github.com/yosugi/cc-zundamon-plugins
 
 ## インストール
 
