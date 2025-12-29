@@ -1,0 +1,20 @@
+{
+  "name": "cc-tsukuyomi-plugins",
+  "owner": {
+    "name": "makefile"
+  },
+  "plugins": [
+    {
+      "name": "tsukuyomi",
+      "source": "./",
+      "description": "つくよみちゃんキャラクターモードで開発をサポート",
+      "version": "1.0.0",
+      "author": {
+        "name": "makefile"
+      },
+      "homepage": "https://github.com/makefile/cc-tsukuyomi-plugins",
+      "repository": "https://github.com/makefile/cc-tsukuyomi-plugins",
+      "license": "MIT"
+    }
+  ]
+}
