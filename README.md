@@ -5,7 +5,7 @@
 ## インストール
 
 ```bash
-/plugin marketplace add makefile/cc-tsukuyomi-plugins
+/plugin marketplace add orikage/cc-tsukuyomi-plugins
 /plugin install tsukuyomi@cc-tsukuyomi-plugins
 ```
 

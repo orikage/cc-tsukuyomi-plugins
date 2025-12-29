@@ -1,7 +1,7 @@
 {
   "name": "cc-tsukuyomi-plugins",
   "owner": {
-    "name": "makefile"
+    "name": "orikage"
   },
   "plugins": [
     {
@@ -10,10 +10,10 @@
       "description": "つくよみちゃんキャラクターモードで開発をサポート",
       "version": "1.0.0",
       "author": {
-        "name": "makefile"
+        "name": "orikage"
       },
-      "homepage": "https://github.com/makefile/cc-tsukuyomi-plugins",
-      "repository": "https://github.com/makefile/cc-tsukuyomi-plugins",
+      "homepage": "https://github.com/orikage/cc-tsukuyomi-plugins",
+      "repository": "https://github.com/orikage/cc-tsukuyomi-plugins",
       "license": "MIT"
     }
   ]
