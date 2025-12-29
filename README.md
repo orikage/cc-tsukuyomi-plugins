@@ -84,6 +84,11 @@ IntentScriptは、AIに「何をしたいか」という意図を明確に伝え
 
 MIT
 
+## 謝辞
+
+本プラグインは [cc-zundamon-plugins](https://github.com/yosugi/cc-zundamon-plugins) を参考に作成しました。
+素晴らしいプラグインを公開してくださった yosugi さんに感謝します。
+
 ---
 
 ※ 本プラグインは、つくよみちゃんを題材にした非公式の二次創作です。
