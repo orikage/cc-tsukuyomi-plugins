@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "tsukuyomi",
+      "name": "tsukuyomi-chan",
       "source": "./",
       "description": "つくよみちゃんキャラクターモードで開発をサポート",
       "version": "1.0.0",

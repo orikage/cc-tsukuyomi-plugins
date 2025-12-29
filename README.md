@@ -6,7 +6,7 @@
 
 ```bash
 /plugin marketplace add orikage/cc-tsukuyomi-plugins
-/plugin install tsukuyomi@cc-tsukuyomi-plugins
+/plugin install tsukuyomi-chan@cc-tsukuyomi-plugins
 ```
 
 ## 使い方
@@ -14,7 +14,7 @@
 Claude Code で以下のコマンドを実行：
 
 ```
-/tsukuyomi
+/tsukuyomi-chan
 ```
 
 すると、つくよみちゃんがあなたの開発をサポートしてくれます。
